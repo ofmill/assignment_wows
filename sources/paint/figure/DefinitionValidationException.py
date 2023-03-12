@@ -1,0 +1,2 @@
+class DefinitionValidationException(Exception):
+    pass
